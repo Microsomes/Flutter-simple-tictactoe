@@ -1,8 +1,15 @@
-# ttt
+# TicTacToe
 
-A new Flutter project.
+A simple game made in flutter. Have fun !!!
+
+
 
 ## Getting Started
+
+1) Download the Project Zip
+2) Unzip
+3) Open in code editor and run Pub get
+4) Flutter run
 
 This project is a starting point for a Flutter application.
 
