@@ -3,6 +3,7 @@
 A simple game made in flutter. Have fun !!!
 
 
+![Image of App](https://github.com/Microsomes/Flutter-simple-tictactoe/blob/master/lib/assets/screenshots/ba459af9-30ca-402e-8f2a-ce09424be4ed.jpg)
 
 ## Getting Started
 
